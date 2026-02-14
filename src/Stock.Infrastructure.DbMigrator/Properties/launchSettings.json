@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "MafPars.LiveStock.DbMigrator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Testing"
+      }
+    }
+  }
+}
